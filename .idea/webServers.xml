@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="1e6a312c-5be8-46a7-a64d-690419581b96" name="localhost" url="http://192.168.0.93:8080">
+        <fileTransfer port="0" mountedRoot="E:\前端开发\kanknawu\bin\nice-pic" accessType="MOUNT" />
+      </webServer>
+    </option>
+  </component>
+</project>
